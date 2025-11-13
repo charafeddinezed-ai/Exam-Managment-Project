@@ -4,6 +4,8 @@ Figma Design --> https://www.figma.com/design/7GtBgiKFH4qe1hxJSpFcDE/Exam-managm
 
 Setup steps:
 
+0 - Set-ExecutionPolicy -Scope CurrentUser Unrestricted
+
 1 - git clone https://github.com/odaydid002/Exam-Managment-Project.git
 
 2 - cd Exam-Managment-Project
