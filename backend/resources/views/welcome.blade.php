@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome</title>
+    <title>Unitime Server</title>
 </head>
 <body>
-    
+    <ul>
+    </ul>
 </body>
 </html>
